@@ -107,4 +107,3 @@ Tested multiple classification models:
 
 Capstone project for **Introduction to Machine Learning**, NYU
 
-> *"This was a real-world classification challenge that incorporated full pipeline modeling under time constraints — great portfolio material."*
